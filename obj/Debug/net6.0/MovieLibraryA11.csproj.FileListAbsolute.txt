@@ -1,0 +1,6 @@
+C:\Users\ethan\Downloads\MovieLibraryA11-master\obj\Debug\net6.0\MovieLibraryA11.csproj.AssemblyReference.cache
+C:\Users\ethan\Downloads\MovieLibraryA11-master\obj\Debug\net6.0\MovieLibraryA11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Downloads\MovieLibraryA11-master\obj\Debug\net6.0\MovieLibraryA11.AssemblyInfoInputs.cache
+C:\Users\ethan\Downloads\MovieLibraryA11-master\obj\Debug\net6.0\MovieLibraryA11.AssemblyInfo.cs
+C:\Users\ethan\Downloads\MovieLibraryA11-master\obj\Debug\net6.0\MovieLibraryA11.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Downloads\MovieLibraryA11-master\obj\Debug\net6.0\ref\MovieLibraryA11.dll
