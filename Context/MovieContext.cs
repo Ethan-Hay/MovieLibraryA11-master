@@ -16,6 +16,7 @@ namespace MovieLibraryA11.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            IConfigurationRoot configuration = new ConfigurationBuilder();
             SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                 .AddJsonFile("appsettings.json")
                 .Build();
